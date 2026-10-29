@@ -1,0 +1,6 @@
+@LivrariaPajeu.API_HostAddress = http://localhost:5087
+
+GET {{LivrariaPajeu.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

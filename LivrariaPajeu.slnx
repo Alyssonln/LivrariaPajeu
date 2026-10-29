@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LivrariaPajeu.API/LivrariaPajeu.API.csproj" />
+  <Project Path="LivrariaPajeu.Communication/LivrariaPajeu.Communication.csproj" />
+  <Project Path="LivratiaPajeu.Exception/LivrariaPajeu.Exception.csproj" />
+</Solution>
